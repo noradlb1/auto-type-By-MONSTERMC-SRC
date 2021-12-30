@@ -1,0 +1,21 @@
+C:\Users\Samad.Dz\Desktop\auto type\auto type\bin\Debug\auto type.exe
+C:\Users\Samad.Dz\Desktop\auto type\auto type\bin\Debug\auto type.pdb
+C:\Users\Samad.Dz\Desktop\auto type\auto type\bin\Debug\auto type.xml
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\auto type.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\auto type.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\auto type.exe
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\auto type.xml
+C:\Users\Samad.Dz\Desktop\auto type\auto type\obj\Debug\auto type.pdb
+C:\Users\MONSTERMC\Desktop\auto type\auto type\bin\Debug\auto type.exe
+C:\Users\MONSTERMC\Desktop\auto type\auto type\bin\Debug\auto type.pdb
+C:\Users\MONSTERMC\Desktop\auto type\auto type\bin\Debug\auto type.xml
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.exe
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.xml
+C:\Users\MONSTERMC\Desktop\auto type\auto type\obj\Debug\auto type.pdb
